@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "./node_modules/.bin/webpack-dev-server --content-base static/"
+    "start": "./node_modules/.bin/webpack-dev-server --content-base static/ --debug"
   },
   "dependencies": {
     "css-loader": "^0.28.4",
